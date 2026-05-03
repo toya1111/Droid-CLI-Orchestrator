@@ -7,19 +7,20 @@
 
 set -e
 
+TARGET_DIR="$(pwd)"
+
 # Define the source->target mappings for symlinks
 # Format: "source_path:target_name"
+# We want to link LOCAL project files TO the GLOBAL factory folder
 SYMLINKS=(
-    "/Users/besi/.codex/AGENTS.md:AGENTS.md"
-    "/Users/besi/.factory/scripts:scripts"
+    "$TARGET_DIR/AGENTS.md:$HOME/.codex/AGENTS.md"
 )
 
-# Define the source->target mappings for copies
-# Format: "source_path:target_name"
 COPIES=(
-    "/Users/besi/.factory/droids:droids"
-    "/Users/besi/.factory/orchestrator:orchestrator"
+    "$TARGET_DIR/droids:$HOME/.factory/droids"
+    "$TARGET_DIR/orchestrator:$HOME/.factory/orchestrator"
 )
+
 
 # Get current working directory
 TARGET_DIR="$(pwd)"
@@ -68,7 +69,7 @@ symlink_count=0
 for link in "${valid_symlinks[@]}"; do
     source="${link%%:*}"
     target_name="${link##*:}"
-    target_path="$TARGET_DIR/$target_name"
+    target_path="$target"
     
     # Remove existing symlink or file with same name
     if [[ -e "$target_path" ]] || [[ -L "$target_path" ]]; then
@@ -97,7 +98,7 @@ copy_count=0
 for copy in "${valid_copies[@]}"; do
     source="${copy%%:*}"
     target_name="${copy##*:}"
-    target_path="$TARGET_DIR/$target_name"
+    target_path="$target"
     
     # Remove existing directory with same name
     if [[ -e "$target_path" ]]; then
@@ -132,7 +133,7 @@ echo "Symlinks created:"
 for link in "${valid_symlinks[@]}"; do
     source="${link%%:*}"
     target_name="${link##*:}"
-    target_path="$TARGET_DIR/$target_name"
+    target_path="$target"
     
     if [[ -L "$target_path" ]]; then
         echo "   🔗 $target_name -> $source"
@@ -144,7 +145,7 @@ echo "Directories copied:"
 for copy in "${valid_copies[@]}"; do
     source="${copy%%:*}"
     target_name="${copy##*:}"
-    target_path="$TARGET_DIR/$target_name"
+    target_path="$target"
     
     if [[ -d "$target_path" ]]; then
         file_count=$(find "$target_path" -type f | wc -l | tr -d ' ')
